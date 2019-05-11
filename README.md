@@ -1,4 +1,4 @@
-# FileAndNetDemo
+# FileDemo
 
 An iOS app demonstrating reading/writing files. Code provided by Norman McEntire (UCSD Extension).
 
